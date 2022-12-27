@@ -27,18 +27,19 @@
 
     /* about me */
     .aboutMe {
-        padding-top: 3%;
+        /* padding-top: 3%; */
         margin-top: -3%;
     }
 
     /* information */
     .information{
-        padding-top: 4%;
+        /* padding-top: 4%; */
+        padding-top: 0;
     }
 
     /* portfolio */
     .portfolio {
-        padding-top: 8%;
+        /* padding-top: 8%; */
         min-height: 800px;
     }
 
